@@ -18,6 +18,7 @@ h1{
 .sec{
     display: flex;
     margin-top: 30px;
+    margin-left: 50px;
 }
 .half-width{
     width: 50%;
@@ -44,7 +45,8 @@ h1{
 .dream-big{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right; 
+    background-position-x: right; 
+    background-position-y: bottom;
 }
 .experience-area{
     background-image: url(img/exp-bg.png);
